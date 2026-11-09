@@ -1,5 +1,5 @@
 shk
-
+#Second modify
 # Find x in the list a
 while left <= right:
     middle = (left + right) // 2

@@ -1,7 +1,4 @@
-a = [5, 12, 28, 29, 40, 41, 53, 54, 68, 69, 79, 80, 83, 89, 90, 100]
-x = input('Input a number: ')
-left = 0
-right = len(a) - 1
+shk
 
 # Find x in the list a
 while left <= right:
